@@ -1,0 +1,168 @@
+.titlu {
+	color: orange;
+}
+.h1 {
+	color: magenta;
+}
+.paragraf {
+	text-align: center;
+	font-size: 32px;
+	background-color:  orange;
+}
+.imagine {
+	width: 300px;
+	height: 150px;
+	border: 3px dotted #a83232;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+style="type"
+
+
+.paragraf {
+	color: darkcyan;
+}
+#paragraf {
+	color: lightcyan;
+}
+
+/* style card */
+.card{
+	width:  30%;
+	border:  3px solid purple;
+}
+.title{
+	color: gray;
+	text-align:  center;
+	font-size: 33px;
+}
+.text{
+	color: lightgray;
+	text-align: center;
+	background-color: darkslateblue;
+	font-size: 20px;
+}
+.image {
+	width: 100%;
+	height: auto;
+}
+
+.stack {
+	display: flex;
+	width:  100wv;
+	flex: wrap;
+	border: 5px solid black;
+	justify-content: space-around;
+}
+
+.text span{
+	font-size: 30px;
+	text-decoration: underline;
+}
+
+.card2 {
+	display:flex ;
+}
+.image2 {
+	width: 20%;
+}
+
+body {
+	background-image:  url("../Image/pexels-pixabay-531880.jpg");
+	background-color: : #cccccc;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	color:  white;
+}
+
+.bg{
+    height: 1000px;
+    background-image: url("../Image/p0973lkk.jpg");
+    background-color:  #fbff00;
+    background-repeat: no repeat;
+    background-size: cover;
+    background-attachment: fixed;
+	background-position: center;
+	color: white;
+}
+.exemplu{
+	background-color: darkred;
+	width:  inherit;
+	height: inherit;
+	text-align: center;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+
+}
+
+.Some Text{
+	color:  white;
+	font-size: 22px;
+	background-color: darkslateblue;
+	margin-top: 50px;
+	padding: 20px 5px 25px 5px;
+	border:  3px solid darkcyan;
+}
+ 
+.FreeRobux{
+	width: 50%;
+	height: auto;
+	border:  4px solid darkcyan;
+}
+.SomeLink{
+	color: whitesmoke;
+	text-decoration: none;
+	font-size: 25px;
+	background-color: darkslateblue;
+	padding: 10px 20px;
+	border:  15px solid lightskyblue;
+	margin-bottom: 50px;
+
+	transition: all 0.5s linear;
+}
+
+.SomeLink:hover {
+	border: 5px solid lightskyblue;
+}
+
+.card{
+	width: 30%;
+}
+.gadget{
+	text-align: center;
+	background-color: darkred;
+}
+.articol{
+	background-color: darkcyan;
+}
+.contacte{
+	background-color: magenta;
+}
+.youtube{
+	background-color: orange;
+}
+.logo{
+	background-color: white;
+}
+.someExample{
+	background-color: #343B29;
+	color: white;
+	margin-top:  100px;
+}
+.someExample_title{
+    background-color: orange;
+    text-align: center;
+    color: lightgoldenrodyellow;
+    text-decoration: line-through;
+    text-transform: uppercase;
+    text-indent: 50px;
+    text-shadow: 3px 3px 2px red;
+    font-family: 'Rubik Glitch', cursive;
+    font-weight: 100;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
